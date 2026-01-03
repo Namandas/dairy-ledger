@@ -124,12 +124,3 @@ npm run start -- --clear
 # or
 npx expo start -c
 ```
-
-## Questions or changes
-If you'd like, I can:
-- Add a settings screen to change the low-stock threshold
-- Add validation to prevent negative incoming values
-- Add a small export/import backup flow for the SQLite DB
-
----
-Generated on 2026-01-03 — contact the repo maintainer for follow-ups.
